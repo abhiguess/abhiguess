@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Abhishek and I'm a backend developer.
 
-- 👋 Hello folks, My name is Abhishek and I'm a backend developer.
 - 👀 I’m interested in Laravel, NodeJS.
 - 🌱 I’m currently learning MERN stack.
 - 📫 How to reach me : abhiguess@gmail.com
