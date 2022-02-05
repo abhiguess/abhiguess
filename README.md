@@ -1,7 +1,6 @@
 ### Hi there 👋, My name is Abhishek and I'm a backend developer.
 
-- 👀 I’m interested in building apps using Laravel and NodeJS.
-- 🌱 I’m currently learning MERN stack.
+- 👀 I’m passionate in building apps using Laravel and NodeJS.
 - 📫 How to reach me : abhiguess@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mondaycodes&label=Profile%20views&color=0e75b6&style=flat" alt="mondaycodes" /> </p>
